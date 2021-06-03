@@ -1,17 +1,17 @@
-Currently working on:
+What's in the repos?
 
-- an in-browser file tree & content editor with content nesting & static spin-off, in React & Node.js with a RESTful API
-- the next stage of the demo model for [thru.js](https://github.com/barcek/thru.js), to generate a full stack app using Express.js & TypeScript
-- more options for handling DOM trees in [awb](https://github.com/barcek/awb), fp resources in Python for [phns](https://github.com/barcek/phns) & entries for [notes](https://barcek.github.io/notes)
-- a back end module in TypeScript to take & extend formatting logic in the [rhizo](https://github.com/barcek/rhizo) Vue components
-- a cross-project stylesheet for development, extending those in [docNxgres](https://github.com/barcek/docNxgres) & notes
-- a browser extension to wrap citations with site context
+- the [docNxgres](https://github.com/barcek/docNxgres) web app template, spun off from a full stack [augomate](https://barcek.github.io/augomate) using Docker, Node.js, PostgreSQL & Nginx, plus the [progpgQ](https://github.com/barcek/progpgQ) CRUD classes
+- a Python package - [phns](https://github.com/barcek/phns) - with various functor classes and compositional resources for a more functional coding style
+- the [rhizo](https://github.com/barcek/rhizo) Vue.js components for a blog-like hypertext viewer, currently used for entries on web dev in [notes](https://barcek.github.io/notes)
+- [thru.js](https://github.com/barcek/thru.js), for model-driven development, written in TypeScript & with a demo model using Express.js
+- [sprk](https://github.com/barcek/sprk), a customizable command line tool, tool template & sample tool set using Python
+- a JS library - [awb](https://github.com/barcek/awb) - with a monad to process DOMTrees & generate HTML
 
-Longer-term projects:
+What's in the queue?
 
-- a dual-access approach to the service layer in Node.js, also spun off from a full stack [augomate](https://barcek.github.io/augomate)
-- a command-line cross-file word synchronizer, initially for CSS class names, in TypeScript
-- a plugin method for [sprk](https://github.com/barcek/sprk) & plugins to support full stack web development & browsing
-- other in-browser development tools: a favicon serializer & a syntax highlighter
-- a lightweight single-page web app framework with transpilation optional
-- a containerized process hub, in Python & TypeScript
+- the next stage of the [thru.js](https://github.com/barcek/thru.js) demo model for a containerized full stack app, plus a cross-project development stylesheet written in Sass
+- a browser extension for citation & in-browser dev tools: a favicon serializer, syntax highlighter & file tree editor in React
+- DOMTree traversal handlers for the [awb](https://github.com/barcek/awb) library on the way to a lightweight web app framework with no transpilation
+- a plugin method for [sprk](https://github.com/barcek/sprk) for simpler tool sharing & monad classes for the [phns](https://github.com/barcek/phns) package to help refactor
+- filter optimizations & a back end module in TypeScript for formatting in [rhizo](https://github.com/barcek/rhizo), plus more [notes](https://barcek.github.io/notes)
+- a task manager & a containerized process hub running on Elixir
