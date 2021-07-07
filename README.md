@@ -12,6 +12,6 @@ What's in the queue?
 - the next stage of the [thru.js](https://github.com/barcek/thru.js) demo model for a containerized full stack app, plus a cross-project development stylesheet in Sass
 - a browser extension for citation & in-browser dev tools: a favicon serializer, syntax highlighter & file tree editor in React
 - DOMTree traversal handlers for the [awb](https://github.com/barcek/awb) library on the way to a lightweight web app framework with no transpilation
-- a plugin method for [sprk](https://github.com/barcek/sprk) for simpler tool sharing & monad classes for the [phns](https://github.com/barcek/phns) package to help refactor
+- in Python, for [sprk](https://github.com/barcek/sprk) a GUI using Django & a plugin method for tool sharing, for [phns](https://github.com/barcek/phns) monads & transducers
 - filter optimizations & a Node.js module in TypeScript for formatting in [rhizo](https://github.com/barcek/rhizo), plus more [notes](https://barcek.github.io/notes)
 - a task manager & a containerized process hub running on Elixir
