@@ -4,8 +4,8 @@ What's in the repos?
 - a Python resource - [phns](https://github.com/barcek/phns) - with various functor classes & the JavaScript library [awb](https://github.com/barcek/awb) with a monad to process DOMTrees
 - the [rhizo](https://github.com/barcek/rhizo) Vue components, in TypeScript, for a blog-like hypertext viewer, used for entries on web dev in [notes](https://barcek.github.io/notes)
 - for multilingual scripting [aliesce](https://github.com/barcek/aliesce) in Rust & for model-driven development [thru.js](https://github.com/barcek/thru.js), with a demo using Express
+- Bash scripts to pass flags to Deno - [deye](https://github.com/barcek/deye) - & mark time passing - [rvry](https://github.com/barcek/rvry) - & an Elixir script for piping - [aqfr](https://github.com/barcek/aqfr)
 - [sprk](https://github.com/barcek/sprk), a customizable command line tool, tool template & sample tool set written in Python
-- Bash scripts to pass permission flags to Deno - [deye](https://github.com/barcek/deye) - & mark time passing - [rvry](https://github.com/barcek/rvry)
 
 What's in the queue?
 
