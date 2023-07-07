@@ -1,4 +1,4 @@
-<p style="text-align:center">
+<p align="center">
   <a href="https://github.com/barcek?tab=repositories&q=site&type=&language=&sort=">sites</a> |
   <a href="https://github.com/barcek?tab=repositories&q=app&type=&language=&sort=">apps</a> |
   <a href="https://github.com/barcek?tab=repositories&q=tool&type=&language=&sort=">tools</a> |
