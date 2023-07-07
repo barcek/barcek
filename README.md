@@ -6,6 +6,9 @@
     <a href="https://github.com/barcek?tab=repositories&q=app&type=&language=&sort=">apps</a>
   </strong> |
   <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=resource&type=&language=&sort=">resources</a>
+  </strong> |
+  <strong>
     <a href="https://github.com/barcek?tab=repositories&q=tool&type=&language=&sort=">tools</a>
   </strong> |
   <strong>
@@ -30,7 +33,22 @@
     <a href="https://github.com/barcek?tab=repositories&q=shell&type=&language=&sort=">shell</a>
   </strong> |
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=automation&type=&language=&sort=">auto</a>
+    <a href="https://github.com/barcek/aliesce">yes</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek/glep">AWK?</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=functional-programming&type=&language=&sort=">FP</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=dx&type=&language=&sort=">DX</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=automation&type=&language=&sort=">automation</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek/rvry">hibernation</a>
   </strong> |
   <strong>
     <a href="https://barcek.github.io/augomate/index.html">more</a>
