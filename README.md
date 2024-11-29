@@ -27,6 +27,9 @@
     <a href="https://github.com/barcek?tab=repositories&q=python&type=&language=&sort=">Python</a>
   </strong> |
   <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=elixir&type=&language=&sort=">Elixir</a>
+  </strong> |
+  <strong>
     <a href="https://github.com/barcek?tab=repositories&q=rust&type=&language=&sort=">Rust</a>
   </strong> |
   <strong>
