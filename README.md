@@ -12,6 +12,9 @@
     <a href="https://github.com/barcek?tab=repositories&q=tool&type=&language=&sort=">tools</a>
   </strong> |
   <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=devops&type=&language=&sort=">devops</a>
+  </strong> |
+  <strong>
     <a href="https://github.com/barcek?tab=repositories&q=frontend&type=&language=&sort=">front</a>
   </strong> |
   <strong>
