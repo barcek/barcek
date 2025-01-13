@@ -1,24 +1,21 @@
 <p align="center">
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=resource&type=&language=&sort=">~libs</a>
-  </strong> |
-  <strong>
-    <a href="https://barcek.github.io/">sites</a>
-  </strong> |
-  <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=app&type=&language=&sort=">apps</a>
+    <a href="https://github.com/barcek?tab=repositories&q=library+OR+package&type=&language=&sort=">~libs</a>
   </strong> |
   <strong>
     <a href="https://github.com/barcek?tab=repositories&q=tool&type=&language=&sort=">tools</a>
   </strong> |
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=frontend&type=&language=&sort=">front</a>
+    <a href="https://github.com/barcek?tab=repositories&q=devops&type=&language=&sort=">DevOps</a>
+  </strong> |
+  <strong>
+    <a href="https://github.com/barcek?tab=repositories&q=backend&type=&language=&sort=">back</a>
   </strong> |
   <strong>
     <a href="https://github.com/barcek?tab=repositories">full</a>
   </strong> |
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=backend&type=&language=&sort=">back</a>
+    <a href="https://github.com/barcek?tab=repositories&q=frontend&type=&language=&sort=">front</a>
   </strong> |
   <strong>
     <a href="https://github.com/barcek?tab=repositories&q=js&type=&language=&sort=">JS-TS</a>
@@ -53,9 +50,12 @@
     <a href="https://github.com/barcek?tab=repositories&q=functional-programming&type=&language=&sort=">FP</a>
   </strong> |
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=devops&type=&language=&sort=">DevOps</a>
+    <a href="https://github.com/barcek?tab=repositories&q=dx&type=&language=&sort=">DX</a>
   </strong> |
   <strong>
-    <a href="https://github.com/barcek?tab=repositories&q=dx&type=&language=&sort=">DX</a>
+    <a href="https://github.com/barcek?tab=repositories&q=app&type=&language=&sort=">apps</a>
+  </strong> |
+  <strong>
+    <a href="https://barcek.github.io/">sites</a>
   </strong>
 </p>
